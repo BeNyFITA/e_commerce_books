@@ -1,0 +1,61 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    width: 100%;
+    height: 6vh;
+    background-color: blue;
+}
+
+.highlights {
+    background-color: red;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 50px;
+    height: 35vh;
+    border: 3px solid black;
+}
+
+h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.carousel-books {
+    background-color: purple;
+    margin: 0 auto;
+    height: 20vh;
+    width: 100%;
+}
+
+.carousel-highlights {
+    background-color:chartreuse;
+    height: 20vh;
+    width: 100%;
+}
+
+
+
+/* Smartphone */
+@media (max-width: 400px){
+
+}
+
+/* Tablets */
+@media (max-width: 768px){
+
+}
+/* Laptops e tablet maior */
+@media (max-width: 1279px){
+
+}
+
+/* Desktop */
+@media (min-width: 1280px){
+
+}
