@@ -77,7 +77,7 @@ a {
 .book:hover, .book-two:hover, .book-three:hover {
     font-size: 0.9em;
     border: 1px solid rgb(204, 204, 204);
-    box-shadow: 3px 3px 3px rgb(153, 153, 153);
+    box-shadow: 3px 3px 3px rgb(204, 204, 204);
 }
 
 .arrow-books {
