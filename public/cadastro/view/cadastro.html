@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/css/style.css">
+    <script src="https://kit.fontawesome.com/55ee65c954.js" crossorigin="anonymous"></script>
+    <title>Cadastro</title>
+</head>
+<body>
+    <div id="Page">
+        <header class="boxHeader">
+            <img class="iconLogo" src="../public/img/iconfinder_expand_full_screen_interface_maximize_5402376.svg" alt="iconLogo">
+            <img class="iconTextoLogo" src="../public/img/iconfinder_iconfinder_logo_182504.svg" alt="textoLogo">
+           <input type="text" name="search" class="search" placeholder="     search">
+           <a class="conta" href="#">Entre ou cadastre-se..</a>
+           <a href="#"><img class="icon1" src="../public/img/iconfinder_bookmark_favorite_heart_love_valentine's day_115727.svg" alt="favoritos"></a>
+           <a href="#"><img class="icon2" src="../public/img/iconfinder_basket_cart_add to cart_bag_carry bag_shopping_ecommerce_8150281.svg" alt=""></a>
+        </header>
+        <section>
+            <h2>Criar conta:</h2>
+            <h3>Dados Pessoais:</h3>
+            <form action="formulario" method="post">
+                <div class="coluna">
+                        <div class="sectionBox1">
+                            <div class="box1"><label for="formulario">TIPO DE PESSOA* :</label><input type="text" required></div>
+                            <div class="box1"><label for="formulario">NOME* :</label><input type="text" required></div>
+                            <div class="box1"><label for="formulario">SOBRENOME* :</label><input type="text" required></div>
+                            <div class="box1"><label for="formulario">EMAIL* :</label><input type="email" required></div>
+                            <div class="box1"><label for="formulario">CPF* :</label><input type="text" required></div>
+                        </div>
+                        <div class="sectionBox2">
+                            <div class="box2"><label for="formulario">SENHA* :</label><input type="text" required></div>
+                            <div class="box2"><label for="formulario">CONFIRMAR SENHA* :</label><input type="text" required></div>
+                                <div class="boxNotARobot">
+                                    <input type="checkbox" name="bot" id="bot" required><label for="formulario">Não sou um robô</label>
+                                </div>
+                        </div>
+
+                </div> 
+
+                <div class="sectionBox3">
+                    <label for="formulario">DATA DE NASCIMENTO* :</label><input type="date" required>
+                    <label for="formulario">SEXO* :</label> <select name="sexo" id="">
+                        <option selected disabled></option>
+                        <option value="#">masculino</option>
+                        <option value="#">feminino</option>
+                    </select>
+                </div>
+               <div class="submit">
+                   <label for="formulario">*  Campos obrigatótios</label>
+                   <button type="submit">ENVIAR</button>
+                </div>
+            </form>
+        </section>
+        <footer>
+            <div class="social-medias">
+                <div class="social-medias-align">
+                <i class="fa-brands fa-twitter-square fa-2xl"></i>
+                <i class="fa-brands fa-facebook-square fa-2xl"></i>
+                <i class="fa-brands fa-google-plus-square fa-2xl"></i>
+                <i class="fa-brands fa-instagram-square fa-2xl"></i>
+                </div>
+            </div>
+    
+            <div class="faq">
+                <div class="faq-links">
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#terms">Terms & Conditions</a></li>
+                </div>
+                <div class="faq-links">
+                    <li><a href="#careers">Careers</a></li>
+                    <li><a href="#country">Change Country</a></li>
+                    <li><a href="#faq">FAQ</a></li>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
