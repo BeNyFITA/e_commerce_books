@@ -36,13 +36,14 @@ a {
 }
 
 .highlights {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    margin: 0 auto;
     margin-top: 3%;
     height: 65vh;
+}
+
+.title-books-div {
+   display: flex;
+   align-items: center;
+   justify-content: center;
 }
 
 .title-books {
@@ -55,7 +56,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 100px;
+    gap: 30px;
     flex-wrap: wrap;
     text-align: center;
 }
@@ -73,6 +74,7 @@ a {
     height: 350px;
     transition: font-size 2s;
 }
+
 
 .book:hover, .book-two:hover, .book-three:hover {
     font-size: 0.9em;
@@ -105,21 +107,16 @@ a {
 }
 
 
-.carousel-books {
-    display: none;
-    background-color: purple;
-    margin: 0 auto;
-    height: 20vh;
-    width: 100%;
-}
+/* NAVEGUE PELO SEU UNIVERSO FAVORITO */
 
-.carousel-highlights {
-    display: none;
-    background-color:chartreuse;
-    height: 20vh;
-    width: 100%;
-}
+.favorite {
+    background-color: red;
+    margin-top: 15%;
+    height: 65vh;
+    width: 1920px;
 
+
+}
 
 
 /* Smartphone */
