@@ -110,6 +110,7 @@ a {
 /* NAVEGUE PELO SEU UNIVERSO FAVORITO */
 
 .favorite {
+    display: none;
     background-color: red;
     margin-top: 15%;
     height: 65vh;
@@ -117,6 +118,8 @@ a {
 
 
 }
+
+
 
 
 /* Smartphone */

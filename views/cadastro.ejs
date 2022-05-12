@@ -4,20 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../public/css/style.css">
+    <link rel="stylesheet" href="/stylesheets/cadastroStyle.css">
     <script src="https://kit.fontawesome.com/55ee65c954.js" crossorigin="anonymous"></script>
     <title>Cadastro</title>
 </head>
 <body>
     <div id="Page">
-        <header class="boxHeader">
-            <img class="iconLogo" src="../public/img/iconfinder_expand_full_screen_interface_maximize_5402376.svg" alt="iconLogo">
-            <img class="iconTextoLogo" src="../public/img/iconfinder_iconfinder_logo_182504.svg" alt="textoLogo">
-           <input type="text" name="search" class="search" placeholder="     search">
-           <a class="conta" href="#">Entre ou cadastre-se..</a>
-           <a href="#"><img class="icon1" src="../public/img/iconfinder_bookmark_favorite_heart_love_valentine's day_115727.svg" alt="favoritos"></a>
-           <a href="#"><img class="icon2" src="../public/img/iconfinder_basket_cart_add to cart_bag_carry bag_shopping_ecommerce_8150281.svg" alt=""></a>
-        </header>
+
+        <%- include('./partials/nav') %>
+
         <section>
             <h2>Criar conta:</h2>
             <h3>Dados Pessoais:</h3>
