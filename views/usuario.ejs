@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/stylesheets/usuario.css">
+    <title>Usuario</title>
+</head>
+<body>
+    <div id="Wrap">
+
+        <%- include('./partials/nav') %>
+
+     
+         <section>
+                    <div class="boxRigthSide">
+                            <h2><img class="perfil" src="../images/iconfinder_customer_man_user_account_profile_1564534.svg" alt="icon">Meus dados</h2>
+                            <ul>
+                                <li><a class="list1" href="#">meus dados</a></li>
+                                <li><a class="list1" href="#">meus endereços</a></li>
+                                <li><a class="list1" href="#">lista de desejos</a></li>
+                                <li><a class="list1" href="#">meus pedidos</a></li>
+                            </ul>
+                                <div class="centralDeAtendimento"><a href="#"><img class="basicChat" src="/images/iconfinder_basic_app_chat_ux_4243265.svg" alt="ChatBox">central de Atendimento</a>
+                                </div>
+                
+                        </div>
+                        
+                    <main>   
+                            <div class="boxMidleSide">
+                                <img  class="perfilImagem" src="/images/iconfinder_customer_man_user_account_profile_1564534.svg" alt="perfil">
+                                <div class="NomePerfil">
+                                    <h2>Nome do zé..</h2>
+                                    <span>modelo da conta</span>
+                                </div>
+                                <div class="contaPlus" >
+                                    <button>conta +</button>
+                                    <span>pontos acumulados</span>
+                                    <p>carregando</p>
+                                </div>
+                                <div class="contaPlus" >
+                                    <button>sair</button>
+                                    <span>saldo</span>
+                                    <p>carregando</p>
+                                </div>
+                            </div>
+                            <div  class="boxMidleBottom"  >
+                                <ul>
+                                    <li>Empresa:</li>
+                                    <li>Nome:</li>
+                                    <li>CNPJ</li>
+                                    <li>E-Mail:</li>
+                                    <li>Telefone da Empresa</li>
+                                </ul>
+                            </div>
+                    </main>
+        </section>
+        
+
+        <%- include('./partials/footer') %>
+    </div>
+</body>
+</html>

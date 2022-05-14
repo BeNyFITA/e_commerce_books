@@ -1,0 +1,108 @@
+
+#Wrap {
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    display: flex;
+    flex-direction: row;
+}
+.perfil{
+    width: 25px;
+}
+.boxRigthSide{
+    position: relative;
+    left: 5%;
+    top: 1vmax;
+    border-style: solid ;
+    border-radius: 30px;
+    border-color: darkgrey ;
+    padding: 1%;
+    display: flex;
+    flex-direction: column;
+
+}
+.boxRigthSide a {
+    color: black;
+    text-decoration: none;
+}
+.list1 {
+    margin: 1%;
+}
+.boxRigthSide li {
+    list-style: none;
+    position: relative;
+    right: 40%;
+    bottom : 12%;
+    margin: 12%;
+    height: 16%;
+    width: 100%;
+}
+
+.basicChat {
+    width: 20px;
+}
+.centralDeAtendimento a{
+    color: darkgray;
+}
+.perfilImagem{
+    width: 15%;
+    position: relative;
+    top: 5px;
+}
+.boxMidleSide {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    align-items: center;
+    left: 10%;
+    top: 25px;
+    height: 110px;
+    border-style: solid ;
+    border-radius: 30px;
+    border-color: darkgrey ;
+    padding: 1%;
+    justify-content: space-around;
+    
+    
+
+}
+.NomePerfil {
+    display: flex;
+    flex-direction: column;
+}
+.contaPlus {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contaPlus p {
+    color: white;
+    background-color: black;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    margin: auto;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.boxMidleBottom {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    align-items: center;
+    left: 10%;
+    top: 25px;
+    height: 110px;
+    border-style: solid ;
+    border-radius: 30px;
+    border-color: darkgrey ;
+    padding: 1%;
+    justify-content: flex-start;
+}
+.boxMidleBottom li{
+    list-style: none;
+}
