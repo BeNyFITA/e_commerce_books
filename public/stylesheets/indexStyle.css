@@ -110,15 +110,37 @@ a {
 /* NAVEGUE PELO SEU UNIVERSO FAVORITO */
 
 .favorite {
-    display: none;
-    background-color: red;
+
     margin-top: 15%;
-    height: 65vh;
-    width: 1920px;
-
-
+    height: 80vh;
+    width: 100%;
 }
 
+.title-books-favorites {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.books {
+    display: flex;
+    flex-direction: row;
+}
+
+.book-one-favorite, .book-two-favorite, .book-three-favorite, .book-four-favorite, .book-five-favorite {
+    font-size: 0.8em;
+    border-radius: 10px;
+    color: #252525;
+    width: 15%;
+    height: 45vh;
+}
+
+
+.book-one-favorite:hover, .book-two-favorite:hover, .book-three-favorite:hover, .book-four-favorite:hover, .book-five-favorite:hover {
+    font-size: 0.9em;
+    border: 1px solid rgb(204, 204, 204);
+    box-shadow: 3px 3px 3px rgb(204, 204, 204);
+}
 
 
 
