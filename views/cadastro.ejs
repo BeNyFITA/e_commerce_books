@@ -16,18 +16,18 @@
         <section>
             <h2>Criar conta:</h2>
             <h3>Dados Pessoais:</h3>
-            <form action="formulario" method="post">
+            <form action="/cadastro/criar" method="post">
                 <div class="coluna">
                         <div class="sectionBox1">
-                            <div class="box1"><label for="formulario">TIPO DE PESSOA* :</label><input type="text" required></div>
-                            <div class="box1"><label for="formulario">NOME* :</label><input type="text" required></div>
-                            <div class="box1"><label for="formulario">SOBRENOME* :</label><input type="text" required></div>
-                            <div class="box1"><label for="formulario">EMAIL* :</label><input type="email" required></div>
-                            <div class="box1"><label for="formulario">CPF* :</label><input type="text" required></div>
+                            <div class="box1"><label for="formulario">TIPO DE PESSOA* :</label><input type="text" name="tipoDePessoa"></div>
+                            <div class="box1"><label for="formulario">NOME* :</label><input type="text" name="nome" required></div>
+                            <div class="box1"><label for="formulario">SOBRENOME* :</label><input type="text" name="sobrenome" required></div>
+                            <div class="box1"><label for="formulario">EMAIL* :</label><input type="email" name="email" required></div>
+                            <div class="box1"><label for="formulario">CPF* :</label><input type="text" name="cpf" required></div>
                         </div>
                         <div class="sectionBox2">
-                            <div class="box2"><label for="formulario">SENHA* :</label><input type="text" required></div>
-                            <div class="box2"><label for="formulario">CONFIRMAR SENHA* :</label><input type="text" required></div>
+                            <div class="box2"><label for="formulario">SENHA* :</label><input type="password" name="senha" required></div>
+                            <div class="box2"><label for="formulario">CONFIRMAR SENHA* :</label><input type="password" name="senha" required></div>
                                 <div class="boxNotARobot">
                                     <input type="checkbox" name="bot" id="bot" required><label for="formulario">Não sou um robô</label>
                                 </div>
@@ -36,7 +36,7 @@
                 </div> 
 
                 <div class="sectionBox3">
-                    <label for="formulario">DATA DE NASCIMENTO* :</label><input type="date" required>
+                    <label for="formulario">DATA DE NASCIMENTO* :</label><input type="date" name="data" required>
                     <label for="formulario">SEXO* :</label> <select name="sexo" id="">
                         <option selected disabled></option>
                         <option value="#">masculino</option>
