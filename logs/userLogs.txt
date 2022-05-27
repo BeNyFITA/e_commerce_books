@@ -1,0 +1,30 @@
+
+    
+    Acessou no dia, mês e ano: 27/05/2022
+    E na hora: 18:35:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------
+
+    
+    Acessou no dia, mês e ano: 27/05/2022
+    E na hora: 18:35:02
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------
+
+    
+    Acessou no dia, mês e ano: 27/05/2022
+    E na hora: 18:35:29
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------

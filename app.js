@@ -2,7 +2,8 @@ var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
-var logger = require('morgan');
+var logger = require('morgan')
+const log = require('./middlewares/userLogs')
 
 const indexRouter = require('./routes/index.routes');
 const cadastroRouter = require('./routes/cadastro.routes')
@@ -20,6 +21,8 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+
+app.use(log)
 
 app.use('/', indexRouter);
 app.use('/cadastro', cadastroRouter)
