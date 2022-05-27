@@ -1,0 +1,64 @@
+
+*{
+    background-color: #06001E;
+}
+
+.paragrafo1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.paragrafo2{
+    padding-top: 100px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.paragrafo3{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.paragrafo4{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.paragrafo5{
+    padding-top: 70px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.paragrafo6{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.btn{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left:35%;
+    padding: 10px 8px;
+    width: 450px;
+    color: white;
+    background-color: #2D9BF0;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: bone;
+    cursor: pointer;
+    }
+.btn:hover{
+    background-color: blue;
+}
