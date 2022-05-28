@@ -3,7 +3,6 @@ const router = express.Router();
 const cadastro = require('../controllers/cadastroController')
 const {check, validationResult } = require('express-validator')
 
-router.get('/criar', cadastro.registro)
 // Abaixo está sendo realizado as validações da rota criar (adicionais de segurança)
 const validacoes = [
     check('nome').isEmpty(),
@@ -21,6 +20,8 @@ const verificarErros = (req, res) => {
     }
 }
 
+
+router.get('/criar', validacoes ,cadastro.registro)
 router.post("/criar", validacoes ,cadastro.criarRegistro)
 router.get('/cadastroFeito', cadastro.guardarRegistro)
 
