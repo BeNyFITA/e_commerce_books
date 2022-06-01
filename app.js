@@ -8,6 +8,7 @@ const log = require('./middlewares/userLogs')
 const indexRouter = require('./routes/index.routes');
 const cadastroRouter = require('./routes/cadastro.routes')
 const usuariosRouter = require('./routes/usuarios.routes')
+const loginRouter = require('./routes/login.routes')
 
 
 var app = express();
@@ -27,6 +28,7 @@ app.use(log)
 app.use('/', indexRouter);
 app.use('/cadastro', cadastroRouter)
 app.use('/usuario', usuariosRouter)
+app.use('/login', loginRouter)
 
 // catch 404 and forward to error handler
 
