@@ -138,3 +138,83 @@
     Status: 200 
 
     -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 28/05/2022
+    E na hora: 20:12:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 28/05/2022
+    E na hora: 20:12:40
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 28/05/2022
+    E na hora: 20:12:51
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 28/05/2022
+    E na hora: 20:12:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 28/05/2022
+    E na hora: 20:13:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 28/05/2022
+    E na hora: 20:13:28
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 28/05/2022
+    E na hora: 20:13:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 28/05/2022
+    E na hora: 20:14:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /usuario 
+    Status: 200 
+
+    -----------------------------------
