@@ -168,3 +168,3433 @@
     Status: 200 
 
     -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 20:59:10
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 20:59:10
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 20:59:49
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:00:19
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:02:32
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:02:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:03:48
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:03:51
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:04:40
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:04:57
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:05:22
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:05:32
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:05:36
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:05:49
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:06:16
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:06:44
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:07:18
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:07:18
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:08:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:12:57
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:13:24
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:14:27
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:14:27
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:15:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:15:24
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:15:24
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:15:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:15:40
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:15:42
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:15:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:19:11
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:19:17
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:19:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:20:50
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:20:50
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:24:00
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:24:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:26:52
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:26:52
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:26:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:27:02
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:27:02
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:27:30
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:27:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:27:44
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:27:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:27:52
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:27:54
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:28:11
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:28:23
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:29:10
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:35
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:36
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:54
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:31:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:32:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:32:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:32:01
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:32:01
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:32:02
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:32:02
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:32:03
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro.ejs 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:32:07
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:32:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:32:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:33:02
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:33:14
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:33:14
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:33:24
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:34:28
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:34:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:34:43
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:34:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:34:48
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:34:59
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:34:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:35:06
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:35:06
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:36:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:36:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:36:26
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:36:27
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:39:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:39:33
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:39:45
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:39:45
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:41:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:41:12
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:41:27
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:41:35
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:41:44
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:41:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:42:19
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:42:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:43:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:43:24
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:43:24
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:49:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:49:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:49:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:49:33
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:51:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro.ejs 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:51:29
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:51:29
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:51:33
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:51:48
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:51:49
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:52:11
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:52:14
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:52:25
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:52:27
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:53:22
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:53:51
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:54:40
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:55:26
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:57:32
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:57:51
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:58:15
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 21:58:31
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:00:08
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:00:31
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:00:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:00:47
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:00:57
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:01:08
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:01:09
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:01:20
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:01:21
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:01:26
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:01:27
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:01:29
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:01:34
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:01:53
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:02:22
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:02:46
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:04:38
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:04:55
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:06:13
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:06:15
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:07:04
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:07:54
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:07:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:07:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:08:12
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:08:26
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:13:03
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:13:28
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:13:33
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:13:38
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:24:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:24:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:24:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:24:36
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:25:12
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:26:09
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:27:34
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:27:42
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:28:33
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:28:33
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:32:03
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:32:05
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:37:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:37:59
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:38:29
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:38:54
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:40:13
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:40:15
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:40:27
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:40:33
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:40:41
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:40:56
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:40:58
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:41:10
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:42:02
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:44:51
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:44:52
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:44:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:45:25
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:46:23
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:46:24
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:46:26
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:46:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:47:05
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:47:25
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:47:26
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:48:15
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:48:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:48:25
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:48:25
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:49:52
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:49:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:55:21
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:55:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:59:51
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:59:51
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:59:52
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 22:59:56
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:02:36
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:02:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:02:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro.ejs 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:02:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:03:05
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:03:06
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:03:06
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:03:06
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:03:07
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:03:07
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:03:07
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:03:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:03:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:03:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:03:29
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:05:48
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:06:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:06:18
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:06:18
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:06:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:06:27
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:06:39
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:08:40
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:08:44
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:09:09
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:10:00
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:10:59
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:11:01
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:11:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:11:11
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:11:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:11:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:11:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:11:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:11:14
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:11:28
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:11:51
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:11:53
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:13:09
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:13:10
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:13:10
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:13:54
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:15:13
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:15:14
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:15:15
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:15:16
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:17:34
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:17:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:17:53
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:18:08
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:18:40
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:18:40
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:18:55
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:19:45
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:19:55
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:20:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:20:35
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:20:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:20:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:20:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:20:46
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:21:01
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:21:04
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:21:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:21:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:21:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:21:33
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:21:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:21:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:21:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:21:45
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:21:55
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:22:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:22:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:22:37
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:22:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:22:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:22:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:03
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:04
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:04
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:08
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:08
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:08
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:37
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:37
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:25:48
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:26:03
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:26:04
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:29:48
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:29:58
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:31:39
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:31:50
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:32:19
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:32:28
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:05
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:13
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:14
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:24
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:25
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:25
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:25
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:40
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:40
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:40
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:40
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:33:55
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:37:08
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:37:49
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:37:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:38:09
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:38:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:41:48
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 31/05/2022
+    E na hora: 23:41:49
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
