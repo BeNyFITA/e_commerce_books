@@ -1,0 +1,20 @@
+[
+ {
+  "id": 1,
+  "nome": "DAVI",
+  "sobrenome": "NOGUEIRA",
+  "email": "davi@gmail.com",
+  "cpf": "11111111111",
+  "dataNascimento": "1212-01-01",
+  "senha": "$2b$12$U9hwhb0rJbbaA2nKawU8ve.TJcWFOKElxwppcE9qWyoOLqmf1GhFa"
+ },
+ {
+  "id": 2,
+  "nome": "Germana",
+  "sobrenome": "NOGUEIRA",
+  "email": "germana@gmail.com",
+  "cpf": "00000000000",
+  "dataNascimento": "1111-01-01",
+  "senha": "$2b$12$evZffBOXRyvjoqyte9Pq/uuViaIS7VWqKGj04mdaR6BrLG2Eq294O"
+ }
+]

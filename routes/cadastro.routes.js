@@ -1,28 +1,36 @@
-const express = require('express')
-const router = express.Router();
+const express = require('express');
+const { validationResult } = require('express-validator');
+
 const cadastro = require('../controllers/cadastroController')
-const {check, validationResult } = require('express-validator')
+const validacoes = require('../middlewares/validators')
+
+const Swal = require('sweetalert2')
+
+const router = express.Router();
 
 // Abaixo está sendo realizado as validações da rota criar (adicionais de segurança)
-const validacoes = [
-    check('nome').isEmpty(),
-    check('sobrenome').isEmpty(),
-    check('email').isEmail(),
-    check('cpf').isLength({min: 11, max: 11}),
-    check('senha').isStrongPassword(),
-    check('data').isDate(),
-]
-
-const verificarErros = (req, res) => {
-    const errors = validationResult(req);
-    if(!errors.isEmpty()){
-        console.log(res.status(400))
+router.get('/criar' ,cadastro.registro)
+router.post('/criar', validacoes , (req, res, next) => {
+    let errors = validationResult(req);
+    
+    // TOFIX: Quando o usuário coloca todas as informações corretas não acontece nenhum erro, porém se ele colocar há um bug
+    if(!errors.isEmpty(errors)){
+        res.render('cadastro', {
+            contexto: {
+              title: 'Novo Produto',
+              menu: 'produtos',
+              old: req.body,
+              errors: errors.mapped()
+            }
+        })
+    }else {
+        cadastro.criarRegistro(req, res)
     }
-}
 
 
-router.get('/criar', validacoes ,cadastro.registro)
-router.post("/criar", validacoes ,cadastro.criarRegistro)
-router.get('/cadastroFeito', cadastro.guardarRegistro)
+    
+    next()
+})
+router.get('/cadastroFeito' ,cadastro.guardarRegistro)
 
 module.exports = router;

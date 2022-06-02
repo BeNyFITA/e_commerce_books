@@ -4,10 +4,12 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan')
 const log = require('./middlewares/userLogs')
+const session = require('express-session');
 
 const indexRouter = require('./routes/index.routes');
 const cadastroRouter = require('./routes/cadastro.routes')
 const usuariosRouter = require('./routes/usuarios.routes')
+const loginRouter = require('./routes/login.routes')
 
 
 var app = express();
@@ -27,6 +29,14 @@ app.use(log)
 app.use('/', indexRouter);
 app.use('/cadastro', cadastroRouter)
 app.use('/usuario', usuariosRouter)
+app.use('/login', loginRouter)
+app.use(session({
+  secret: 'keyboard cat',
+  resave: false,
+  saveUninitialized: true,
+  cookie: { secure: true }
+}))
+
 
 // catch 404 and forward to error handler
 
@@ -38,7 +48,7 @@ app.use(function(err, req, res, next) {
 
   // render the error page
   res.status(err.status || 500);
-  res.render('error');
+  res.render('error')
 });
 
 module.exports = app;
