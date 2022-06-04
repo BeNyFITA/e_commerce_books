@@ -29,7 +29,7 @@ app.use(log)
 app.use('/', indexRouter);
 app.use('/cadastro', cadastroRouter)
 app.use('/usuario', usuariosRouter)
-app.use('/login', loginRouter)
+app.use('/user', loginRouter)
 app.use(session({
   secret: 'keyboard cat',
   resave: false,

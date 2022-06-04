@@ -20,13 +20,9 @@ const cadastro = {
             // Criando usuário com base em nosso models User
             let userCreated = User.create(userToCreate);
 
-            res.redirect('/cadastro/cadastroFeito')
+            res.redirect('/user/login')
 
     },
-    guardarRegistro:(req,res)=>{
-        res.render('cadastroFeito')
-        
-    }
 
 }
 

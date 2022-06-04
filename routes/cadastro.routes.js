@@ -31,6 +31,5 @@ router.post('/criar', validacoes , (req, res, next) => {
     
     next()
 })
-router.get('/cadastroFeito' ,cadastro.guardarRegistro)
 
 module.exports = router;

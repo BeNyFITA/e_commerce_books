@@ -14,7 +14,11 @@
     <main class="container">
         <div class="title-login"><h1>LOGIN</h1></div>
 
-        <form action="/login" method="POST">
+        <% if (typeof errors !== "undefined") { %>
+            <p><%= errors.email.msg  %> </p>
+            <% } %>
+
+        <form action="/user/login" method="POST">
 
             <section class="input-fields">
             <div class="div-input-email">
@@ -24,7 +28,7 @@
 
             <div class="div-input-password">
                 <label for="password">Sua senha:</label>
-                <input type="password", id="password", name="password", placeholder="1234">
+                <input type="password", id="password", name="senha", placeholder="1234">
             </div>
             </section>
 
