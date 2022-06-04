@@ -4534,3 +4534,153 @@
     Status: 200 
 
     -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 02/06/2022
+    E na hora: 18:02:26
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 02/06/2022
+    E na hora: 18:02:27
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 02/06/2022
+    E na hora: 18:02:27
+     
+    Utilizando o método: GET  
+    A url acessada foi: /favicon.ico 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 02/06/2022
+    E na hora: 18:02:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: /login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 02/06/2022
+    E na hora: 18:02:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/stylesheets/login.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 02/06/2022
+    E na hora: 18:02:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 02/06/2022
+    E na hora: 18:02:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 02/06/2022
+    E na hora: 18:02:48
+     
+    Utilizando o método: GET  
+    A url acessada foi: /login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 02/06/2022
+    E na hora: 18:03:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: /login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 02/06/2022
+    E na hora: 18:19:45
+     
+    Utilizando o método: GET  
+    A url acessada foi: /login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 03/06/2022
+    E na hora: 00:10:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 03/06/2022
+    E na hora: 00:10:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 03/06/2022
+    E na hora: 00:10:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 03/06/2022
+    E na hora: 00:10:54
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 03/06/2022
+    E na hora: 00:10:55
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/cadastroFeito 
+    Status: 200 
+
+    -----------------------------------
