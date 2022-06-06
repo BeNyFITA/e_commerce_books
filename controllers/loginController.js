@@ -4,12 +4,6 @@ const path  = require('path')
 const bcrypt = require('bcrypt')
 const User = require('../models/User')
 
-/*
-O QUE DEVERÁ SER FEITO
-1. Nós iremos ler o JSON e dentro do JSON iremos buscar a senha(criptografada)
-2. Após pegar essa senha criptografada nós teremos que compará-la com a senha que o usuário enviou pelo req.body.senha.
-3. Depois 
-*/
 
 const autenticacao = {
 
@@ -36,11 +30,6 @@ const autenticacao = {
             }
         })
 
-        res.redirect('/autenticado')
-        /* 
-        1. Eu preciso desenvolver uma lógica de primeiramente encontrar dentro do array a senha que é equivalente a passada no req body
-        2. Depois disso eu preciso redirecionar o usuário para a view autenticado se ele passar por essas etapas.
-        3. LEMBRANDO: A senha está criptografada, será necessário desencriptar.*/
          
     },
 

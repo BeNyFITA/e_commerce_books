@@ -32,6 +32,10 @@ h1 {
     margin-bottom: 40%;
 }
 
+.text-danger {
+    color: #ffffff;
+}
+
 .input-fields {
     display: flex;
     flex-direction: column;

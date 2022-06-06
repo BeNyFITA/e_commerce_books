@@ -14,8 +14,8 @@
     <main class="container">
         <div class="title-login"><h1>LOGIN</h1></div>
 
-        <% if (typeof errors !== "undefined") { %>
-            <p><%= errors.email.msg  %> </p>
+        <% if (typeof errors !== 'undefined') { %>
+            <p class="text-danger">* <%= errors.email.msg  %> </p>
             <% } %>
 
         <form action="/user/login" method="POST">
