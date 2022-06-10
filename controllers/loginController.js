@@ -3,6 +3,7 @@ const session = require('express-session');
 const path  = require('path')
 const bcrypt = require('bcrypt')
 const User = require('../models/User')
+const { validationResult } = require('express-validator')
 
 
 const autenticacao = {
@@ -18,7 +19,10 @@ const autenticacao = {
             let isPasswordVerified = bcrypt.compareSync(req.body.senha, userToLogin.senha)
 
             if(isPasswordVerified){
-                return res.redirect('/usuario')
+                delete userToLogin.senha;
+                req.session.userLogged = userToLogin;
+                
+                return res.redirect('/perfil')
             }
         }
 
@@ -37,6 +41,16 @@ const autenticacao = {
     viewAutenticado: (req, res) => {
         return res.render('autenticado')
     },
+
+    profile: (req, res) => {
+        if(req.session.userLogged){
+            return res.render('usuario', {
+                userLogged: req.session.userLogged
+            })
+        }else {
+            return res.redirect('/user/login')
+        }
+    }
 
 }
 

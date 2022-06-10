@@ -8,11 +8,16 @@ const session = require('express-session');
 
 const indexRouter = require('./routes/index.routes');
 const cadastroRouter = require('./routes/cadastro.routes')
-const usuariosRouter = require('./routes/usuarios.routes')
 const loginRouter = require('./routes/login.routes')
 
 
 var app = express();
+
+app.use(session({
+  secret: 'senhaextremamentesecretaindescobrivel',
+  resave: false,
+  saveUninitialized: false,
+}));
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -28,14 +33,8 @@ app.use(log)
 
 app.use('/', indexRouter);
 app.use('/cadastro', cadastroRouter)
-app.use('/usuario', usuariosRouter)
+app.use('/perfil', loginRouter)
 app.use('/user', loginRouter)
-app.use(session({
-  secret: 'keyboard cat',
-  resave: false,
-  saveUninitialized: true,
-  cookie: { secure: true }
-}))
 
 
 // catch 404 and forward to error handler

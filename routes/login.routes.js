@@ -9,4 +9,7 @@ router.get('/login', autenticacao.viewLogin)
 // criar a rota post
 router.post('/login', autenticacao.autenticado)
 
+// tela de perfil
+router.get('', autenticacao.profile)
+
 module.exports = router;

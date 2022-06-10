@@ -8794,3 +8794,1343 @@
     Status: 200 
 
     -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 05/06/2022
+    E na hora: 23:43:03
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 05/06/2022
+    E na hora: 23:43:05
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 05/06/2022
+    E na hora: 23:43:06
+     
+    Utilizando o método: GET  
+    A url acessada foi: /favicon.ico 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 05/06/2022
+    E na hora: 23:43:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 05/06/2022
+    E na hora: 23:43:11
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 05/06/2022
+    E na hora: 23:43:52
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 05/06/2022
+    E na hora: 23:43:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /usuario 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 19:19:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 19:19:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 19:19:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /favicon.ico 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 19:19:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 19:19:32
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 19:20:05
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 19:20:06
+     
+    Utilizando o método: GET  
+    A url acessada foi: /usuario 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 20:10:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 20:10:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 20:10:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 20:10:34
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 20:10:51
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 20:11:08
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 21:00:41
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 21:01:00
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 21:01:01
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 21:01:36
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 06/06/2022
+    E na hora: 21:02:00
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:00:01
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:00:02
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:00:02
+     
+    Utilizando o método: GET  
+    A url acessada foi: /favicon.ico 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:00:07
+     
+    Utilizando o método: GET  
+    A url acessada foi: /usuario 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:04:12
+     
+    Utilizando o método: GET  
+    A url acessada foi: /usuario 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:04:51
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:06:47
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:06:53
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:06:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /usuario 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:07:05
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:07:05
+     
+    Utilizando o método: GET  
+    A url acessada foi: /profile 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:07:11
+     
+    Utilizando o método: GET  
+    A url acessada foi: /profile 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:07:11
+     
+    Utilizando o método: GET  
+    A url acessada foi: /profile 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:07:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /profile 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:07:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:07:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /profile 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:07:42
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:07:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:08:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:08:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:08:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:08:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:08:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:08:26
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:08:31
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:08:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:08:49
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:08:51
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:08:51
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:09:37
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:09:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:09:42
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:09:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:10:36
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:45
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:45
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:45
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:45
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:11:45
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:17:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:17:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:17:29
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:17:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:18:02
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:18:03
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:21:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:21:28
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:21:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:21:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /profile 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:22:08
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:22:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:22:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:23:10
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:25:14
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:25:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /favicon.ico 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:25:49
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:25:50
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:26:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:26:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:26:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:27:09
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:27:11
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:27:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:27:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:27:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:27:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:27:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:28:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:28:02
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:28:12
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:28:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:28:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:28:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:28:45
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:28:51
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:28:51
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:03
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:06
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:08
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:13
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:21
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:24
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:24
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:30:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:32:04
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:32:04
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:32:10
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:32:10
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:32:17
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:32:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:32:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:33:14
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:34:01
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 09/06/2022
+    E na hora: 17:34:03
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
