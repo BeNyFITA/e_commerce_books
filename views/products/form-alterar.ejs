@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <% include ../partials/head %>
+  </head>
+  <body>
+    <% include ../partials/nav %>
+    <main>
+      <div class="px-4 py-5 my-5 text-center">
+        <h1 class="display-5 fw-bold"><%=contexto.produto.nome %></h1>
+        <div class="col-lg-6 mx-auto">
+          <p class="lead mb-4"><%=contexto.produto.descricao %></p>
+          <p class="lead mb-4"><%=contexto.produto.valor %></p>
+          <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+            <a href='/produto/alterar/<%=contexto.produto.id%>' class="button btn btn-primary btn-lg px-4 gap-3">Alterar</a>
+            <a href='/produto/excluir/<%=contexto.produto.id%>' class="button btn btn-outline-secondary btn-lg px-4">Excluir</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    </main>
+    <% include ../partials/footer %>
+  </body>
+  <% include ../partials/script %>
+</html>

@@ -22,7 +22,7 @@ class ProdutoRepository {
         this.produtos.push(novoProduto)
         fs.writeFileSync(
             this.caminhoCompletoArquivo,
-            JSON.stringify(this.lista, null, ' ')
+            JSON.stringify(this.produtos, null, ' ')
         );
     }
 
@@ -30,7 +30,7 @@ class ProdutoRepository {
         const novaLista = this.produtos.filter((produto) => produto.id !== id)
         fs.writeFileSync(
             this.caminhoCompletoArquivo,
-            JSON.stringify(novoProduto, null, ' ')
+            JSON.stringify(novaLista, null, ' ')
         );
     }
 

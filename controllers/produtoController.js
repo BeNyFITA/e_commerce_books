@@ -81,7 +81,7 @@ const controller = {
     acaoAlterar: (req, res) => {
         const produtoRepo = new ProdutoRepository();
         produtoRepo.alterar(req.body);
-        res.redirect('products/administrar');
+        res.redirect('produto/administrar');
     },
 
     acaoFormExcluir: (req, res) => {
@@ -98,7 +98,7 @@ const controller = {
     acaoExcluir: (req, res) => {
         const produtoRepo = new ProdutoRepository();
         produtoRepo.excluir(req.params.id);
-        res.redirect('/products/administrar')
+        res.redirect('/produto/administrar')
     }
 }
 

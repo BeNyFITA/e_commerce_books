@@ -1,15 +1,26 @@
 [
-    {
-     "nome": "S20",
-     "valor": "1899",
-     "descricao": "dsfgsdfgsdf sadfgsdfg",
-     "id": "018e9ba8-c367-472f-8995-83bff9e6733e",
-     "isPromocao": true
-    },
-    {
-     "nome": "Iphone",
-     "valor": "1789",
-     "descricao": "asdfgasdfads asdfasdf",
-     "id": "8b62b131-4721-4b13-9922-6b8477cccf9b"
-    }
-   ]
+ {
+  "nome": "Como sua mente pode curar seu corpo",
+  "valor": "10",
+  "descricao": "Como sua mente pode curar seu corpo          ",
+  "id": "03808e2f-5f81-4f84-981d-89095c8bc234"
+ },
+ {
+    "nome": "Como sua mente pode curar seu corpo",
+    "valor": "10",
+    "descricao": "Como sua mente pode curar seu corpo          ",
+    "id": "03808e2f-5f81-4f84-981d-89095c8bc234"
+   },
+   {
+    "nome": "Como sua mente pode curar seu corpo",
+    "valor": "10",
+    "descricao": "Como sua mente pode curar seu corpo          ",
+    "id": "03808e2f-5f81-4f84-981d-89095c8bc234"
+   },
+   {
+    "nome": "Como sua mente pode curar seu corpo",
+    "valor": "10",
+    "descricao": "Como sua mente pode curar seu corpo          ",
+    "id": "03808e2f-5f81-4f84-981d-89095c8bc234"
+   }
+]
