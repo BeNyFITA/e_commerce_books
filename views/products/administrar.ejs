@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <% include ../partials/head %>
+  </head>
+  <body>
+    <% include ../partials/nav %>
+    <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+      <h1 class="display-4 fw-normal"><%= contexto.title %></h1>
+      <p class="fs-5 text-muted">
+        Crie, edite, atualize ou delete os produtos cadastrados
+      </p>
+    </div>
+    <main>
+      <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+        <% contexto.produtos.forEach(produto =>{ %>    
+      
+        <div class="col">
+          <div class="card mb-4 rounded-3 shadow-sm">
+            <div class="card-header py-3">
+              <h4 class="my-0 fw-normal"><%=produto.nome%></h4>
+            </div>
+            <div class="card-body">
+              <h1 class="card-title pricing-card-title">
+                <%=produto.valor%><small class="text-muted fw-light">/até 10x</small>
+              </h1>
+              <div class="list-unstyled mt-3 mb-4">
+                <%=produto.descricao%>
+              </div>
+              <a href="/produto/detalhar/<%=produto.id%>" type="button" class=" button w-100 btn btn-lg btn-primary">
+                Detalhar
+              </a>
+            </div>
+          </div>
+        </div><% }) %>  
+      </div>
+    </div>
+    <div class="float-end">
+      <a href="/produto/criar" type="button" class="button w-100 btn btn-lg btn-secondary">
+        Novo Produto
+      </a>
+    </div>
+
+
+    </main>
+    <% include ../partials/footer %>
+  </body>
+  <% include ../partials/script %>
+</html>

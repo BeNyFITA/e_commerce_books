@@ -5,10 +5,12 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan')
 const log = require('./middlewares/userLogs')
 const session = require('express-session');
+const methodOverride = require('method-override');
 
 const indexRouter = require('./routes/index.routes');
 const cadastroRouter = require('./routes/cadastro.routes')
 const loginRouter = require('./routes/login.routes')
+const produtoRouter = require('./routes/produto.routes');
 
 
 var app = express();
@@ -31,13 +33,21 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(log)
 
+// override with POST having ?_method=DELETE
+app.use(methodOverride('_method')); //Middleware globalc
+
 app.use('/', indexRouter);
 app.use('/cadastro', cadastroRouter)
 app.use('/perfil', loginRouter)
 app.use('/user', loginRouter)
+app.use('/produto', produtoRouter);
 
 
 // catch 404 and forward to error handler
+
+app.use(function (req, res, next) {
+  next(createError(404));
+});
 
 // error handler
 app.use(function(err, req, res, next) {

@@ -10134,3 +10134,1723 @@
     Status: 200 
 
     -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:45:52
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:45:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:45:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /favicon.ico 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:45:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:45:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:45:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:46:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:46:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:46:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:48:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:49:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:50:08
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:50:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:50:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:51:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:52:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:52:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:52:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:52:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:52:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:52:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:53:33
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/ 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:53:33
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/stylesheets/listagem.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:53:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/ 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:53:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/stylesheets/listagem.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:53:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/ 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:53:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/ 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:54:18
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:55:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:55:58
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:55:58
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:55:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:56:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:56:26
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:56:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:56:55
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:56:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:57:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:57:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:57:35
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:57:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:57:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:57:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:57:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:18
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:18
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:19
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:29
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:30
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:31
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:31
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:31
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:32
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:32
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:38
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:39
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:39
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:58:40
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 10/06/2022
+    E na hora: 23:59:34
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:02:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:02:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:02:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:02:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:02:33
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:02:37
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:04:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/detalhar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:05:14
+     
+    Utilizando o método: GET  
+    A url acessada foi: /products/detalhar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:05:37
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/detalhar/3 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:05:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:08:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:08:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:08:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:08:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:08:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:09:14
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:09:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:09:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:09:24
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:09:55
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:09:55
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:09:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:10:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:10:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:10:22
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:10:36
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:14:46
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:15:02
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:15:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:15:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:15:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:16:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:16:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:16:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:16:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:16:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:16:36
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:16:51
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:17:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:17:54
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:17:55
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:17:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:17:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:17:56
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:19:46
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:19:46
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:19:58
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:19:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:20:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:20:03
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/detalhar/018e9ba8-c367-472f-8995-83bff9e6733e 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:21:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/ 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:21:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:21:58
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:11
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/ 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:12
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/ 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:14
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:14
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:14
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:14
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:29
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:29
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:29
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:29
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:37
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:37
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:37
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:22:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:23:29
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:23:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:24:48
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/administrar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:24:48
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:25:12
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/detalhar/8b62b131-4721-4b13-9922-6b8477cccf9b 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:25:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:25:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:25:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:25:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:25:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 11/06/2022
+    E na hora: 00:25:43
+     
+    Utilizando o método: POST  
+    A url acessada foi: /produto 
+    Status: 200 
+
+    -----------------------------------

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <% include ../partials/head %>
+  </head>
+  <body>
+    <% include ../partials/nav %>
+    <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
+      <h1 class="display-4 fw-normal"><%= contexto.title %></h1>
+    </div>
+    <main>
+      <form method="post" action="/produto">
+        <div class="mb-3">
+          <label for="nome" class="form-label">Nome</label>
+          <input
+            type="text"
+            class="form-control"
+            id="nome"
+            name="nome"
+            placeholder="Nome do produto..."
+            value="<%=contexto?.old?.nome%>"
+          />
+          <% if(contexto.errors && contexto.errors.nome) {%>
+          <p class="feedback"><%= contexto?.errors?.nome.msg %></p>
+          <%}%>
+        </div>
+
+        <div class="mb-3">
+          <div class="col-5">
+            <label for="valor" class="form-label">Valor</label>
+            <input
+              type="text"
+              class="form-control col-3"
+              id="valor"
+              name="valor"
+              placeholder="R$ 0,00"
+              value="<%=contexto?.old?.valor%>"
+            />
+            <% if(contexto.errors && contexto.errors.valor) {%>
+            <p class="feedback"><%= contexto?.errors?.valor.msg %></p>
+            <%}%>
+          </div>
+        </div>
+        <div class="mb-3">
+          <label for="descricao" class="form-label">Descrição</label>
+          <textarea
+            class="form-control"
+            id="descricao"
+            name="descricao"
+            rows="3"
+          >
+          <%=contexto?.old?.descricao%></textarea
+          >
+          <% if (contexto.errors && contexto.errors.descricao) { %>
+          <p class="feedback"><%= contexto?.errors?.descricao.msg %></p>
+          <% } %>
+        </div>
+        <div class="d-grid col-6 mx-auto">
+          <button type="submit" class="btn btn-primary mb-3">Salvar</button>
+        </div>
+      </form>
+    </main>
+    <% include ../partials/footer %>
+  </body>
+  <% include ../partials/script %>
+</html>
