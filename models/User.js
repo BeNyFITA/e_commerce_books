@@ -9,7 +9,8 @@ const User = {
         let allUsers = this.getUsers();
         let newUser = {
             id: this.generateId(),
-            ...userData
+            ...userData,
+            role: 'default'
         }
 
         allUsers.push(newUser);
