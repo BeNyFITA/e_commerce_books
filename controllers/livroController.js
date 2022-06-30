@@ -1,4 +1,4 @@
-const db = require('../models/');
+const db = require('../models');
 listar = async (req, res) => {
   //Buscar todos os livros do banco
   try {

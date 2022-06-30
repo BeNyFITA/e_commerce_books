@@ -1,40 +1,40 @@
-module.exports = (sequelize, dataTypes) => {
+module.exports = (sequelize, DataTypes) => {
     const Livro = sequelize.define(
       'Livro',
       {
         id: {
-          type: dataTypes.INTEGER,
+          type: DataTypes.INTEGER,
           primaryKey: true,
           autoIncrement: true,
           allowNull: false
         },
         titulo: {
-          type: dataTypes.STRING,
+          type: DataTypes.STRING,
           allowNull: false
         },
         quantidade_paginas: {
           allowNull: false,
-          type: dataTypes.INTEGER
+          type: DataTypes.INTEGER
         },
         autor: {
-          type: dataTypes.STRING,
+          type: DataTypes.STRING,
           allowNull: false
         },
         ano_lancamento: {
           allowNull: false,
-          type: dataTypes.INTEGER
+          type: DataTypes.INTEGER
         },
         estoque: {
           allowNull: false,
-          type: dataTypes.INTEGER
+          type: DataTypes.INTEGER
         },
         updatedAt: {
           allowNull: true,
-          type: dataTypes.DATE
+          type: DataTypes.DATE
         },
         createdAt: {
           allowNull: true,
-          type: dataTypes.DATE
+          type: DataTypes.DATE
         }
       },
       {

@@ -1,4 +1,4 @@
-const ProdutoRepository = require('../models/produtoRepository');
+const ProdutoRepository = require('../database/produtoRepository');
 const { validationResult } = require('express-validator');
 
 const controller = {

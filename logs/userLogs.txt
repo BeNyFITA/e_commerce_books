@@ -19604,3 +19604,153 @@
     Status: 200 
 
     -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:09:35
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:10:18
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:10:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:13:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:20:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:20:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:20:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:20:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:20:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:20:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:20:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:20:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:20:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:20:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 30/06/2022
+    E na hora: 15:28:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /livro 
+    Status: 200 
+
+    -----------------------------------

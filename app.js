@@ -37,12 +37,12 @@ app.use(log)
 // override with POST having ?_method=DELETE
 app.use(methodOverride('_method')); //Middleware globalc
 
+app.use('/', livroRouter)
 app.use('/', indexRouter);
 app.use('/cadastro', cadastroRouter)
 app.use('/perfil', loginRouter)
 app.use('/user', loginRouter)
 app.use('/produto', produtoRouter);
-app.use('/', )
 
 
 // catch 404 and forward to error handler
