@@ -11,7 +11,7 @@ const indexRouter = require('./routes/index.routes');
 const cadastroRouter = require('./routes/cadastro.routes')
 const loginRouter = require('./routes/login.routes')
 const produtoRouter = require('./routes/produto.routes');
-const livroRouter = require('./routes/livro.routes')
+const apiRouter = require('./routes/api.routes')
 
 
 var app = express();
@@ -37,7 +37,7 @@ app.use(log)
 // override with POST having ?_method=DELETE
 app.use(methodOverride('_method')); //Middleware globalc
 
-app.use('/', livroRouter)
+app.use('/', apiRouter)
 app.use('/', indexRouter);
 app.use('/cadastro', cadastroRouter)
 app.use('/perfil', loginRouter)
