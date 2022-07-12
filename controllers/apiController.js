@@ -69,16 +69,20 @@ alterar = async (req, res) => {
 }
 
 
-
+// Atualizar título
 atualizar = async (req, res) => {
   const {id} = req.params;
+  const {titulo} = req.body;
 
   try {
-    
+    const titleAlterBook = await db.Livro.update({titulo}, {
+      where: {id}
+    })
+    res.status(201).json(titleAlterBook)
   }
   catch (err) {
     res.status(500).json({error: `Houve um erro ao tentar atualizar o campo específico`})
   }
 }
 
-module.exports = { listar, detalhar, criar, excluir, alterar };
+module.exports = { listar, detalhar, criar, excluir, alterar, atualizar };

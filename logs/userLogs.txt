@@ -20214,3 +20214,503 @@
     Status: 200 
 
     -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 16:41:23
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 16:41:24
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 16:41:24
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 16:41:26
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros/3 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 16:41:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 16:41:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 16:43:11
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 16:43:12
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 16:43:12
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 16:43:12
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 16:44:25
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livro 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 19:26:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 19:26:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /favicon.ico 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 19:27:12
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros/2 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 19:29:32
+     
+    Utilizando o método: POST  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 19:29:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros/102 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 19:33:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros/102 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 19:33:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros/3 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 19:33:25
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros/4 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 19:33:27
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros/ 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 19:42:05
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros/ 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 01/07/2022
+    E na hora: 19:54:35
+     
+    Utilizando o método: POST  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 19:09:46
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 19:09:47
+     
+    Utilizando o método: GET  
+    A url acessada foi: /favicon.ico 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 19:11:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 19:11:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 19:11:25
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 19:11:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /produto 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 19:11:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /stylesheets/style.css 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 19:29:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 19:32:54
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 20:48:19
+     
+    Utilizando o método: PATCH  
+    A url acessada foi: /api/livros/2 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 20:48:53
+     
+    Utilizando o método: PATCH  
+    A url acessada foi: /api/livros/2 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 20:53:59
+     
+    Utilizando o método: PATCH  
+    A url acessada foi: /api/livros/2 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 20:54:15
+     
+    Utilizando o método: PATCH  
+    A url acessada foi: /api/livros/2 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 20:54:31
+     
+    Utilizando o método: PATCH  
+    A url acessada foi: /api/livros/2 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 20:54:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 20:54:42
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 20:54:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 20:54:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 20:59:27
+     
+    Utilizando o método: PATCH  
+    A url acessada foi: /api/livros/2 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 20:59:31
+     
+    Utilizando o método: PATCH  
+    A url acessada foi: /api/livros/101 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 21:00:51
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 21:00:52
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 21:01:43
+     
+    Utilizando o método: PATCH  
+    A url acessada foi: /api/livros/101 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 21:01:47
+     
+    Utilizando o método: PATCH  
+    A url acessada foi: /api/livros/2 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 21:01:50
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 21:01:51
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 21:10:49
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 04/07/2022
+    E na hora: 21:10:50
+     
+    Utilizando o método: GET  
+    A url acessada foi: /api/livros 
+    Status: 200 
+
+    -----------------------------------
