@@ -16,7 +16,7 @@
         <section>
             <h2>Criar conta:</h2>
             <h3>Dados Pessoais:</h3>
-            <form action="/cadastro/criar" method="POST">
+            <form action="/cadastro/criar" method="POST" class="register">
                 <div class="coluna">
                         <div class="sectionBox1">
                             <div class="box1"><label for="formulario">TIPO DE PESSOA* :</label><input type="text" name="tipoDePessoa"></div>
@@ -53,6 +53,9 @@
         <%- include('./partials/footer') %>
 
     </div>
+
+
+    <script src="../js/register/validations.js"></script>
 </body>
 </html>
 

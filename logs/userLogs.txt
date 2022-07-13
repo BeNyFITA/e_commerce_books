@@ -20714,3 +20714,1203 @@
     Status: 200 
 
     -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:16:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:16:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:16:32
+     
+    Utilizando o método: GET  
+    A url acessada foi: /favicon.ico 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:16:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:16:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validationsClientSide.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:34
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:34
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validationsClientSide.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:35
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:35
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validationsClientSide.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:35
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:35
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validationsClientSide.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:36
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:36
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validationsClientSide.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:36
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:19:36
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validationsClientSide.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:20:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:20:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:20:54
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:20:54
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:20:55
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:20:55
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:20
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:48
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:48
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:49
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:49
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:50
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:50
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:58
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:21:59
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:16
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /public/js/register/validations.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:33
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:22:47
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:24:34
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:24:34
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:25:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:25:25
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:25:25
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:25:31
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:25:33
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:26:55
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:26:55
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:27:05
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:27:21
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:27:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:27:25
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:28:30
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:28:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:28:33
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:29:25
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:29:26
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:29:40
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:30:12
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:30:23
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 17:30:24
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:03:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: / 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:03:38
+     
+    Utilizando o método: GET  
+    A url acessada foi: /assets/home.js 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:03:39
+     
+    Utilizando o método: GET  
+    A url acessada foi: /favicon.ico 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:03:43
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:03:45
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:05:36
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:06:01
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:06:01
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:06:06
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:06:07
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:06:10
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:06:57
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:06:57
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:08:08
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:08:08
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:08:08
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:08:44
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:09:00
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:09:00
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:10:14
+     
+    Utilizando o método: POST  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:10:15
+     
+    Utilizando o método: GET  
+    A url acessada foi: /perfil 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:10:17
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:10:33
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:10:54
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:10:54
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:14:16
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:15:56
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:18:29
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:18:41
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:18:41
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:19:20
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:19:21
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:19:28
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:19:30
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:19:40
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:19:40
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:19:52
+     
+    Utilizando o método: POST  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:19:53
+     
+    Utilizando o método: GET  
+    A url acessada foi: /user/login 
+    Status: 200 
+
+    -----------------------------------
+
+    
+    Acessou no dia, mês e ano: 12/07/2022
+    E na hora: 21:20:19
+     
+    Utilizando o método: GET  
+    A url acessada foi: /cadastro/criar 
+    Status: 200 
+
+    -----------------------------------
